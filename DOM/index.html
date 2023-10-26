@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+<body>
+    <h1 id="principal-title">DOM.</h1>
+    <p>Este modelo de trabajo permite modificar todos los objetos que tenga en algun documento HTML por medio de los selectores.</p>
+    <h2>Selectores</h2>
+    <ul>
+        <li class="elemento-selector"><b>Clases (class): </b>Tienen caracteristica que pueden ir en multiples elementos</li>
+        <li class="elemento-selector"><b>IDs (id): </b> Tienen la caracteristica de que son unicos</li>
+        <li><b>Etiquetas</b> (h1, p, img, div, section, ul, li, ...)</li>
+    </ul>
+    <p id="parrafo"></p>     
+    <form action="">
+        <label>Nombre</label>
+        <input type="text" id="nombre">
+        <input type="button" id="boton-formulario" value="Mostrar">
+    </form>
+    <p id="resultadoFormulario"></p>
+    <h2>Ejercicio calculadora</h2>
+    <form>
+        <label>Ingrese el numero 1</label>
+        <input type="number" id="num1"><br>
+        <label>Ingrese el numero 2</label>
+        <input type="number" id="num2"><br>
+        <input type="button" id="sumar" value="Sumar">
+        <input type="button" id="restar" value="Restar">
+        <input type="button" id="multi" value="Multiplicar">
+        <input type="button" id="dividir" value="Dividir">
+    </form>
+    <p id="resultadoCalculadora"></p>
+    <script src="app.js"></script>
+</body>
+</html>

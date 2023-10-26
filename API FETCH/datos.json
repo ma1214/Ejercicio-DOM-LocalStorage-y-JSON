@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Liliana",
+        "apellido": "Herrera",
+        "edad": 32,
+        "contacto":{
+            "telefono": 321456987,
+            "correo": "llherrerap@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "Vanessa",
+        "apellido": "Lineros",
+        "edad": 21,
+        "contacto":{
+            "telefono": 321456988,
+            "correo": "vanesa@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "German",
+        "apellido": "Moreno",
+        "edad": 33,
+        "contacto":{
+            "telefono": 321456942,
+            "correo": "german@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "Teresa",
+        "apellido": "Barrantes",
+        "edad": 63,
+        "contacto":{
+            "telefono": 321451442,
+            "correo": "teresa@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "Andrés",
+        "apellido": "Monrroy",
+        "edad": 19,
+        "contacto":{
+            "telefono": 3214544442,
+            "correo": "andres@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "David",
+        "apellido": "Perez",
+        "edad": 19,
+        "contacto":{
+            "telefono": 350454442,
+            "correo": "david@udistrital.edu.co"
+        },
+        "trabajo": true
+    },
+    {
+        "nombre": "Cristopher",
+        "apellido": "Ortiz",
+        "edad": 23,
+        "contacto":{
+            "telefono": 350455642,
+            "correo": "cristopher@udistrital.edu.co"
+        },
+        "trabajo": true
+    }
+]
